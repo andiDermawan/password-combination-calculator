@@ -1,2 +1,2 @@
-# password-combination-calculator
-calculate the password combination
+# just a simple program
+nothing here....
